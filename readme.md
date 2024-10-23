@@ -1,5 +1,1 @@
-Este es un ejemplo de README que va a servir para hacer modificaciones
-
-Instalar estas dependendias
---jQueri
---Boostrap
+esta es una modificacion nueva en local para adaptarse al remoto
